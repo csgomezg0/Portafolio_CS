@@ -25,7 +25,7 @@ import AnalisisDatos from './pages/AnalisisDatos'; // Importa la nueva página
 ReactDOM.render(
   <Router>
     <Routes>
-      <Route path="/" element={<App />} />
+      <Route path="/home" element={<App />} />
       <Route path="/AnalisisDatos" element={<AnalisisDatos />} />
     </Routes>
   </Router>,
