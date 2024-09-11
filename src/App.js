@@ -21,12 +21,7 @@ function App() {
             <p id="texto3">{textos.texto3}</p>
           </section>
 
-          <div className="container">
-          <section id="about">
-            <h2 id="texto1">{textos.texto1}</h2>
-            <p id="texto3">{textos.texto3}</p>
-          </section>
-          
+
           <section id="skills">
             <h2 id="texto4">{textos.texto4}</h2>
             <div className="skills">
