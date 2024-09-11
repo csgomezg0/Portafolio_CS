@@ -5,8 +5,6 @@ import Footerpage from './components/footer.js';
 import Headerpage from './components/header.js';
 import Contactpage from './components/contact.js';
 
-
-// Componente principal de la App que renderiza todos los componentes
 function App() {
   return (
     <div>
