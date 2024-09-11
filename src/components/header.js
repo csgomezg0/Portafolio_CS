@@ -8,7 +8,7 @@ const Headerpage = ({ id = "texto26", text }) => {
       <header className="header-container">
           <h1 id={id} className="header-title">{text}</h1>
 
-          <a href="/home" className="header-link">
+          <a href="/" className="header-link">
               <img src={logo} alt="Logo" className="header-logo" />
           </a>
 
