@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Portafolio_CS/static/css/main.c9857a6d.css",
-    "main.js": "/Portafolio_CS/static/js/main.55b2bc5a.js",
-    "static/media/An0.jpg": "/Portafolio_CS/static/media/An0.8b4bba5d2ab2b38f950f.jpg",
-    "static/media/An2.png": "/Portafolio_CS/static/media/An2.7c773291b8156fb2b13a.png",
-    "static/media/An8.png": "/Portafolio_CS/static/media/An8.f058e1d2ddd3ad3945d4.png",
-    "static/media/An7.png": "/Portafolio_CS/static/media/An7.f4e524a182fd811e5606.png",
-    "static/media/An1.png": "/Portafolio_CS/static/media/An1.e7ee63372ad9d5820c79.png",
-    "static/media/An5.png": "/Portafolio_CS/static/media/An5.6cb4cf15b4a1ceb8ea03.png",
-    "static/media/An3.png": "/Portafolio_CS/static/media/An3.c64edf0708afee824960.png",
-    "static/media/An4.png": "/Portafolio_CS/static/media/An4.280a72cb3f25b6de4aa9.png",
-    "static/media/index.png": "/Portafolio_CS/static/media/index.03131bf6da3ad7f4bab3.png",
-    "static/media/An9.png": "/Portafolio_CS/static/media/An9.c62df3fc434672be9c2b.png",
-    "index.html": "/Portafolio_CS/index.html",
-    "main.c9857a6d.css.map": "/Portafolio_CS/static/css/main.c9857a6d.css.map",
-    "main.55b2bc5a.js.map": "/Portafolio_CS/static/js/main.55b2bc5a.js.map"
+    "main.css": "./static/css/main.c9857a6d.css",
+    "main.js": "./static/js/main.3803223e.js",
+    "static/media/An0.jpg": "./static/media/An0.8b4bba5d2ab2b38f950f.jpg",
+    "static/media/An2.png": "./static/media/An2.7c773291b8156fb2b13a.png",
+    "static/media/An8.png": "./static/media/An8.f058e1d2ddd3ad3945d4.png",
+    "static/media/An7.png": "./static/media/An7.f4e524a182fd811e5606.png",
+    "static/media/An1.png": "./static/media/An1.e7ee63372ad9d5820c79.png",
+    "static/media/An5.png": "./static/media/An5.6cb4cf15b4a1ceb8ea03.png",
+    "static/media/An3.png": "./static/media/An3.c64edf0708afee824960.png",
+    "static/media/An4.png": "./static/media/An4.280a72cb3f25b6de4aa9.png",
+    "static/media/index.png": "./static/media/index.03131bf6da3ad7f4bab3.png",
+    "static/media/An9.png": "./static/media/An9.c62df3fc434672be9c2b.png",
+    "index.html": "./index.html",
+    "main.c9857a6d.css.map": "./static/css/main.c9857a6d.css.map",
+    "main.3803223e.js.map": "./static/js/main.3803223e.js.map"
   },
   "entrypoints": [
     "static/css/main.c9857a6d.css",
-    "static/js/main.55b2bc5a.js"
+    "static/js/main.3803223e.js"
   ]
 }
