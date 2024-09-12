@@ -1,9 +1,6 @@
 import React from 'react';
 import '../css/FileCSS.css';
 import { textos } from '../textos/textosVar.js'; // Importa la constante desde texto.js
-console.log("sdjosdnfjksdnsdfjksdfnsdfjknsdfjkn")
-
-console.log(textos.texto25)
 
 const contactPage= () => {
     return (
