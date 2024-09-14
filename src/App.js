@@ -37,7 +37,8 @@ function App() {
 
               <SkillCircle clasename="project" title={textos.texto12} description={textos.texto13} url='/AnalisisDatos' />
               <SkillCircle clasename="project" title={textos.texto15} description={textos.texto16} />
-              <SkillCircle clasename="project" title={textos.texto18} description={textos.texto19} />
+              <SkillCircle clasename="project" title={textos.texto18} description={textos.texto19} url='/AudioModels' />
+
 
             </div>
           </section>
