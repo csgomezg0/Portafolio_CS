@@ -28,7 +28,7 @@ const AnotherPage = () => {
 
         <section id="about">
           <h2 id="texto50">{textos.texto50}</h2>
-          <p id="texto51" style={{ textAlign: 'justify' }}>{textos.texto51}</p>
+          <p id="texto51" style={{ textAlign: 'justify' }} dangerouslySetInnerHTML={{ __html: textos.texto51 }}></p>
           
         </section>
 
